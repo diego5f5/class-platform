@@ -12,7 +12,7 @@ const Event = () => {
 
       <main className="flex flex-1">
         {slug ? (
-          <Video />
+          <Video lessonSlug={slug} />
         ) : (
           <div className="flex-1 flex items-center justify-center text-4xl">
             Select the class in the schedule on the side.
