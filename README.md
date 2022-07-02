@@ -1,8 +1,10 @@
 # Class Platform
 
->The idea of this project is based on the challenge promoted by Rocketseat. A web application that manages a class platform, where it is possible to register and access a schedule of classes and contents.
+> The idea of this project is based on the challenge promoted by Rocketseat. A web application that manages a class platform, where it is possible to register and access a schedule of classes and contents.
 
-![Class Platform](https://raw.githubusercontent.com/diego5f5/class-platform/main/readme-files/presentation.png)
+![Class Platform](https://raw.githubusercontent.com/diego5f5/class-platform/main/readme-files/presentation1.png)
+
+![Class Platform](https://raw.githubusercontent.com/diego5f5/class-platform/main/readme-files/presentation2.png)
 
 ## Getting Started
 
@@ -52,6 +54,7 @@ VITE_API_ACCESS_TOKEN="YOUR_API_ACESS_TOKEN_HERE"
 Note: You need to replace the variable values with the corresponding values from your project in the graphCMS tool.
 
 After having configured the previous steps, just run:
+
 ```
 yarn dev
 ```
